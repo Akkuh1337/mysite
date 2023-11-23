@@ -28,6 +28,7 @@
         <option value="$MODULE_DIR$/main/templates" />
         <option value="$MODULE_DIR$/contact/templates" />
         <option value="$MODULE_DIR$/catalog/templates" />
+        <option value="$MODULE_DIR$/news/static" />
       </list>
     </option>
   </component>
